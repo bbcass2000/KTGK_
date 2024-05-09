@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327387613207",
+    "project_id": "ktgk-eaa3a",
+    "storage_bucket": "ktgk-eaa3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327387613207:android:d10dd42b2b17616062b452",
+        "android_client_info": {
+          "package_name": "com.loginhomeregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvrTPrFL3YVEu7x1tFXotfgQZ9EqhwNV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
